@@ -1,5 +1,5 @@
 #
-#PURPOSE: How to Store the Input to Disctionary , using Map , Iterate using without items.
+#PURPOSE: How to Store the Input to Dictionary , using Map , Iterate using without items.Limit Floating Point Value to Two Decimals.
 #DATE   : 15-DEC-2020
 #
 #REFERRENCES: https://www.geeksforgeeks.org/precision-handling-python/
